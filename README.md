@@ -14,6 +14,7 @@
  ## Sample Working
  ### Postman
   ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/login.png)
+  <hr>
   ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/dashboard.png)
  ### UI/ Browser
   ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/1.png)
