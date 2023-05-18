@@ -13,10 +13,9 @@
  2. POST (/api/v1/login)
  ## Sample Working
  ### Postman
-  ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/login.png)
-  <hr>
-  ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/dashboard.png)
+  ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/login.png)<br>
+  ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/dashboard.png)<br>
  ### UI/ Browser
-  ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/1.png)
-   ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/2.png)
-    ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/3.png)
+  ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/1.png)<br>
+   ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/2.png)<br>
+    ![image](https://github.com/krishna-kpa/JWT-basics/blob/main/sample/3.png)<br>
